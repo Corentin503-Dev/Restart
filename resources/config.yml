@@ -1,0 +1,2 @@
+restart-cooldown: 5 #secondes
+restart-message: "§9Restart dans 5 secondes"
