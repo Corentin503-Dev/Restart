@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Corentin503-Dev/Restart
+build-by-default: true
+branches:
+- main
+projects:
+  Restart:
+    path: ""
+...
